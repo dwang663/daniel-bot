@@ -1,0 +1,1 @@
+Multi-functional Discord bot built in Node.js, supporting server moderation, image generation, and custom commands. Integrated with a persistent database to track user account balances, activity stats, and inventory, enabling advanced features like recording game statistics and role-based rewards.
